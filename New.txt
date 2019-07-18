@@ -4,3 +4,7 @@ fs
 
 v
 dfd
+
+git remote add origin https://sahuram285:ram12345678@github.com/adsemble/dev.adsemble-framework-infrastructure.git
+
+git remote add origin2 https://amit14194:sachint28@github.com/amit14194/GitTest.git
